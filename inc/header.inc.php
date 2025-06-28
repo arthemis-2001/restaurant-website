@@ -14,8 +14,9 @@
     <nav>
       <a href="our-mission.php">Our mission</a>
       <a href="ingredients.php">Ingredients</a>
+      <a href="menu.php">Menu</a>
       <a href="mailto:culinary-cove@example.com">Send us an email</a>
     </nav>
   </header>
 
-  <main></main>
+  <main>
